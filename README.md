@@ -49,10 +49,12 @@ TensorFlow 2.0 基础网络结构
 [TensorFlow2教程-基础CNN网络](https://zhuanlan.zhihu.com/p/60900649)
 
 [TensorFlow2教程-CNN变体网络](https://zhuanlan.zhihu.com/p/60900902)
+
 [TensorFlow2教程-文本卷积](https://zhuanlan.zhihu.com/p/60901179)
 
 [TensorFlow2教程-使用预训练CNN模型](https://zhuanlan.zhihu.com/p/60901419)
 
 完整tensorflow2.0教程代码请看[tensorflow2.0：中文教程tensorflow2_tutorials_chinese(欢迎star)](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
+
 更多TensorFlow 2.0 入门教程请持续关注专栏：[Tensorflow2教程](https://zhuanlan.zhihu.com/c_1091021863043624960)
 
