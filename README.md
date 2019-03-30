@@ -29,7 +29,9 @@ https://zhuanlan.zhihu.com/p/59507137
 TensorFlow 2.0 深度学习实践
 
 [TensorFlow2.0 教程-图像分类](https://zhuanlan.zhihu.com/p/59506238)
+
 [TensorFlow2.0 教程-文本分类](https://zhuanlan.zhihu.com/p/59506402)
+
 [TensorFlow2.0 教程-过拟合和欠拟合](https://zhuanlan.zhihu.com/p/59506543)
 
 [TensorFlow2.0教程-结构化数据分类](https://zhuanlan.zhihu.com/p/60232704)
@@ -41,6 +43,7 @@ TensorFlow 2.0 深度学习实践
 TensorFlow 2.0 基础网络结构
 
 [TensorFlow2教程-基础MLP网络](https://zhuanlan.zhihu.com/p/60899040)
+
 [TensorFlow2教程-mlp及深度学习常见技巧合](https://zhuanlan.zhihu.com/p/60900318)
 
 [TensorFlow2教程-基础CNN网络](https://zhuanlan.zhihu.com/p/60900649)
