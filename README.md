@@ -6,15 +6,24 @@ tensorflow2中文教程，持续更新（一般每周末统一更新）
 
 
 
-**最全Tensorflow 2.0 教程持续更新：**https://zhuanlan.zhihu.com/p/59507137
+**最全Tensorflow 2.0 教程持续更新：**
+https://zhuanlan.zhihu.com/p/59507137
+
 
 [TensorFlow 2.0 教程- Keras 快速入门](https://zhuanlan.zhihu.com/p/58825020)
+
 [TensorFlow 2.0 教程-keras 函数api](https://zhuanlan.zhihu.com/p/58825710)
+
 [TensorFlow 2.0 教程-使用keras训练模型](https://zhuanlan.zhihu.com/p/58826227)
+
 [TensorFlow 2.0 教程-用keras构建自己的网络层](https://zhuanlan.zhihu.com/p/59481536)
+
 [TensorFlow 2.0 教程-keras模型保存和序列化](https://zhuanlan.zhihu.com/p/59481985)
+
 [TensorFlow 2.0 教程-eager模式](https://zhuanlan.zhihu.com/p/59482373)
+
 [TensorFlow 2.0 教程-Variables](https://zhuanlan.zhihu.com/p/59482589)
+
 [TensorFlow 2.0 教程--AutoGraph](https://zhuanlan.zhihu.com/p/59482934)
 
 TensorFlow 2.0 深度学习实践
