@@ -1,6 +1,6 @@
 # tensorflow2_tutorials_chinese
 
-tensorflow2中文教程，持续更新（一般每周末统一更新）
+tensorflow2中文教程，持续更新（一般每周更新一次）
 
 当前tensorflow版本：tensorflow2.0
 
@@ -8,6 +8,9 @@ tensorflow2中文教程，持续更新（一般每周末统一更新）
 
 **最全Tensorflow 2.0 教程持续更新：**
 https://zhuanlan.zhihu.com/p/59507137
+
+
+本教程主要由tensorflow2.0官方教程的个人学习复现笔记整理而来，并借鉴了一些keras构造神经网络的方法，中文讲解，方便喜欢阅读中文教程的朋友，tensorflow官方教程：https://www.tensorflow.org
 
 
 [TensorFlow 2.0 教程- Keras 快速入门](https://zhuanlan.zhihu.com/p/58825020)
@@ -44,7 +47,7 @@ TensorFlow 2.0 基础网络结构
 
 [TensorFlow2教程-基础MLP网络](https://zhuanlan.zhihu.com/p/60899040)
 
-[TensorFlow2教程-mlp及深度学习常见技巧合](https://zhuanlan.zhihu.com/p/60900318)
+[TensorFlow2教程-MLP及深度学习常见技巧](https://zhuanlan.zhihu.com/p/60900318)
 
 [TensorFlow2教程-基础CNN网络](https://zhuanlan.zhihu.com/p/60900649)
 
@@ -52,7 +55,24 @@ TensorFlow 2.0 基础网络结构
 
 [TensorFlow2教程-文本卷积](https://zhuanlan.zhihu.com/p/60901179)
 
-[TensorFlow2教程-使用预训练CNN模型](https://zhuanlan.zhihu.com/p/60901419)
+[TensorFlow2教程-LSTM和GRU](https://zhuanlan.zhihu.com/p/60966714)
+
+[TensorFlow2教程-自编码器](https://zhuanlan.zhihu.com/p/61077346)
+
+[TensorFlow2教程-卷积自编码器](https://zhuanlan.zhihu.com/p/61080045)
+
+[TensorFlow2教程-词嵌入](https://zhuanlan.zhihu.com/p/61224215)
+
+[TensorFlow2教程-DCGAN](https://zhuanlan.zhihu.com/p/61280722)
+
+[TensorFlow2教程-使用Estimator构建Boosted trees](https://zhuanlan.zhihu.com/p/61400276)
+
+TensorFlow 2.0 安装
+
+[TensorFlow2教程-Ubuntu安装TensorFlow 2.0](https://zhuanlan.zhihu.com/p/61472293)
+
+[TensorFlow2教程-Windows安装tensorflow2.0](https://zhuanlan.zhihu.com/p/62036280)
+
 
 完整tensorflow2.0教程代码请看[tensorflow2.0：中文教程tensorflow2_tutorials_chinese(欢迎star)](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
 
