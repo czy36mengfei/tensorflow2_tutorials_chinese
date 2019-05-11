@@ -83,3 +83,4 @@ TensorFlow 2.0 安装
 
 更多TensorFlow 2.0 入门教程请持续关注专栏：[Tensorflow2教程](https://zhuanlan.zhihu.com/c_1091021863043624960)
 
+深度学习入门书籍和资源推荐：https://zhuanlan.zhihu.com/p/65371424
